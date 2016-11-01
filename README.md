@@ -1,4 +1,4 @@
-# machine-learning-path
+# Machine Learning Path
 
 ## Helpful link
 - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README.md)
