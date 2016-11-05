@@ -21,3 +21,22 @@ The core ideas
 - Recommander Systems
 - Large Scale machine Learning
 - Photo OCR
+
+Summary: Main topics
+
+Supervised Learning
+- Linear regression, logistic regression, neural networks, SVMs.
+
+Unsupervised Learning
+K-means, PCA, Anomaly Detection
+
+Special applications/special topics
+- Recommender systems, large scal machine learning.
+
+Advice on building a machine learning systems
+- Bias/variance, regularization
+- deciding what to work on next
+    - evaluation of learning algorithms
+    - learning curves
+    - error analysis
+    - ceiling analysis
